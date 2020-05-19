@@ -1,0 +1,10 @@
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\bin\Debug\LabTwo.exe.config
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\bin\Debug\LabTwo.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\bin\Debug\LabTwo.pdb
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\bin\Debug\LabOne.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\bin\Debug\LabOne.pdb
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\bin\Debug\LabOne.exe.config
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\obj\Debug\SalaryIncrease.csprojAssemblyReference.cache
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\obj\Debug\SalaryIncrease.csproj.CopyComplete
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\obj\Debug\LabTwo.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabTwo\obj\Debug\LabTwo.pdb

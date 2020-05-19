@@ -1,0 +1,6 @@
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabOne\obj\Debug\LabOne.csprojAssemblyReference.cache
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabOne\bin\Debug\LabOne.exe.config
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabOne\bin\Debug\LabOne.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabOne\bin\Debug\LabOne.pdb
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabOne\obj\Debug\LabOne.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabOne\obj\Debug\LabOne.pdb

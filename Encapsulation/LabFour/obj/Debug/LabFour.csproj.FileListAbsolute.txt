@@ -1,0 +1,10 @@
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\bin\Debug\LabFour.exe.config
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\bin\Debug\LabFour.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\bin\Debug\LabFour.pdb
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\obj\Debug\LabFour.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\obj\Debug\LabFour.pdb
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\bin\Debug\LabOne.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\bin\Debug\LabOne.pdb
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\bin\Debug\LabOne.exe.config
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\obj\Debug\LabFour.csprojAssemblyReference.cache
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabFour\obj\Debug\LabFour.csproj.CopyComplete

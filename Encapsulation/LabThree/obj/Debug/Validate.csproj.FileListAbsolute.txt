@@ -1,0 +1,6 @@
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabThree\bin\Debug\LabThree.exe.config
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabThree\bin\Debug\LabThree.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabThree\bin\Debug\LabThree.pdb
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabThree\obj\Debug\LabThree.exe
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabThree\obj\Debug\LabThree.pdb
+C:\Users\aies2\Desktop\encuplsulation\Encapsulation\LabThree\obj\Debug\Validate.csprojAssemblyReference.cache
